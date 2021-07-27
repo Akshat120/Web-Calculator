@@ -1,3 +1,3 @@
 # Simple Web-Calculator
 # ``` js console.log("+,-,*,/,%"); ```
-https://zepurt.github.io/Web-Calculator/
+https://akshat120.github.io/Web-Calculator/
